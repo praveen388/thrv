@@ -1,0 +1,12 @@
+ .sticky {
+    position: fixed!important;
+}
+ #mainContainer {
+    margin: 0;
+    padding-top: 0;
+}
+
+#rv-types {
+    display: block;
+    border-bottom: 1px solid #cdcdcd;
+}
